@@ -9,5 +9,6 @@ It tries to replicate the srcset from HTML img element.
 	"3x":"http://lipsum.com/3.png",
 	"3.5x":"http://lipsum.com/3.5.png"}}
 
+
 #NOTE
 Every property applicable to Image is also applicable to RImage
