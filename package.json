@@ -1,0 +1,28 @@
+{
+  "name": "react-native-RImage",
+  "version": "1.0.0",
+  "description": "Responsive image is what allows you to have srcset(for different density) instead of a simple source.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prateekbh/react-native-RImage"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "rimage",
+    "responsive-image"
+  ],
+  "author": "Prateek Bhatnagar",
+  "bugs": {
+    "url": "https://github.com/prateekbh/react-native-RImage/issues"
+  },
+  "homepage": "https://github.com/prateekbh/react-native-RImage",
+  "peerDependencies": {
+    "react-native": "^0.4.x"
+  }
+}
